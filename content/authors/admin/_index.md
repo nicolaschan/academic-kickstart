@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Nicolas Chan 
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Computer Science and Mathematics, class of 2021
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of California, Berkeley
+  url: "https://www.berkeley.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "Undegraduate at UC Berkeley"
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer programming
+- Mathematics
+- Clarinet & piano
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BA Computer Science
+    institution: University of California, Berkeley
+    year: current student
+  - course: BA Mathematics
+    institution: University of California, Berkeley
+    year: current student
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +41,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:nicolaschan@berkeley.edu'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/nicolaschan
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -65,11 +62,13 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m currently an operations intern at [Berkeley Research Computing](https://research-it.berkeley.edu/blog/17/12/21/success-stories-brc%E2%80%99s-undergraduate-ops-internship-program), developing tools for and assisting researchers with supercomputing in close affiliation with the [Lawrence Berkeley National Lab](https://www.lbl.gov) HPCS team.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Previously, I worked for [SGT](http://www.sgt-inc.com) as a contractor at NASA Ames Research Center, working on the [Mission Tools Suite](https://mts.nasa.gov) to support the airborne science program.
+
+In 2015, I was part of the educational associates program by USRA, also at NASA Ames, primarily working on user interface design for a winter weather dashboard for airline dispatchers.
