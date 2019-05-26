@@ -34,6 +34,6 @@ date_format = "Jan 2006"
   url = "https://web.archive.org/web/20190526022938/https://financialaid.berkeley.edu/sites/default/files/docs/Edward%20Kraft%20Award%20Recopients_0.pdf"
   date_start = "2017-12-01"
   date_end = ""
-  description = "Attaining a 4.0 GPA during first semester at UC Berkeley"
+  description = "Attaining a 4.0 GPA during my first semester at UC Berkeley"
 
 +++
